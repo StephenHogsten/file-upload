@@ -1,3 +1,8 @@
 body {
     margin: 20px;
 }
+
+#file-box {
+    width: 300px;
+    border-style: solid;
+}
